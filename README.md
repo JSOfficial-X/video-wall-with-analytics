@@ -23,8 +23,10 @@ Videoplayer will attempt to read the files.
 
 Depending on age and gender (range is set), the videoplayer will cut off the random video and display a new video consist of brochure.
 
-The new video will be picked and it will go back to random video for display once it is finished.
+The new video will be picked from a designated folders and it will go back to random video for display once it is finished.
 
 Process will keep repeating
+
+Remote manager is used to send emergency message or upload new videos wirelessly
 
 **AT THE MOMENT THE PROGRAMME NEEDS OVERHAUL DUE TO DEPRECATED API**
