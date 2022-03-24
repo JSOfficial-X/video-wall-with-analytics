@@ -1,0 +1,287 @@
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe.config
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.pdb
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.Properties.Resources.resources
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.exe
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.pdb
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.FaceAnalysis.resources
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.FaceAnalysis.resources
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.Properties.Resources.resources
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.exe
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.pdb
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe.config
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.pdb
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe.config
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.pdb
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.FaceAnalysis.resources
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.Properties.Resources.resources
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.exe
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.pdb
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe.config
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.pdb
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.WMPLib.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.FaceAnalysis.resources
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.Properties.Resources.resources
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.exe
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.pdb
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe.config
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.pdb
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.dll
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.dll
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.dll
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.FaceAnalysis.resources
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.Properties.Resources.resources
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.exe
+C:\Users\User\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.pdb
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe.config
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.pdb
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.dll
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.dll
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.dll
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csprojResolveAssemblyReference.cache
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.ResolveComReference.cache
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.FaceAnalysis.resources
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.Properties.Resources.resources
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.GenerateResource.Cache
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.CoreCompileInputs.cache
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.exe
+C:\Users\RoboCoach\Desktop\New Video Code Wall\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.pdb
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe.config
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.pdb
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.dll
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.dll
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.dll
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csprojResolveAssemblyReference.cache
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.ResolveComReference.cache
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.FaceAnalysis.resources
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.Properties.Resources.resources
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.GenerateResource.Cache
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.CoreCompileInputs.cache
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.exe
+C:\Users\RoboCoach\Desktop\ww - Copy (2)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.pdb
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe.config
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.pdb
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.dll
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.dll
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.dll
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csprojResolveAssemblyReference.cache
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.ResolveComReference.cache
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.FaceAnalysis.resources
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.Properties.Resources.resources
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.GenerateResource.Cache
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.CoreCompileInputs.cache
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.exe
+C:\Users\RoboCoach\Desktop\Backup PA VIdeo Wall\DirectX PA Video Wall Project\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.pdb
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe.config
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.pdb
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.ResolveComReference.cache
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.FaceAnalysis.resources
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.Properties.Resources.resources
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.GenerateResource.Cache
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.CoreCompileInputs.cache
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.exe
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.pdb
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe.config
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.pdb
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csprojResolveAssemblyReference.cache
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.ResolveComReference.cache
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.FaceAnalysis.resources
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.Properties.Resources.resources
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.GenerateResource.Cache
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.CoreCompileInputs.cache
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.exe
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.pdb
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe.config
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.exe
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\TargetPromotionProjectV3.pdb
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Imaging.Formats.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\AForge.Video.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Common.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csprojResolveAssemblyReference.cache
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.ResolveComReference.cache
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.FaceAnalysis.resources
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.Properties.Resources.resources
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.GenerateResource.Cache
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.csproj.CoreCompileInputs.cache
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.exe
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\TargetPromotionProjectV3\obj\Debug\TargetPromotionProjectV3.pdb

@@ -1,0 +1,241 @@
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe.config
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.pdb
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Face.dll
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.dll
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.dll
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.pdb
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.xml
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csprojResolveAssemblyReference.cache
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.baml
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\MainWindow.baml
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.g.cs
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.g.cs
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.g.cs
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.g.cs
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.g.cs
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\MainWindow.g.cs
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\App.g.cs
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.cache
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.lref
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.baml
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.baml
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.baml
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.baml
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.g.resources
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.exe
+D:\MyStuff\ProjectOxford-ClientSDK-master\Face\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe.config
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.dll
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.pdb
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.baml
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.g.cs
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.g.cs
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.g.cs
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.g.cs
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.g.cs
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.cache
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.lref
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.baml
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.baml
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.baml
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.baml
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.g.resources
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\User\Desktop\Program\Li Pian_program\PromoterPackage\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.baml
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.g.cs
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.g.cs
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.g.cs
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.g.cs
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.g.cs
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.cache
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.lref
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe.config
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.dll
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.baml
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.baml
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.baml
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.baml
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.g.resources
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\User\Desktop\Targeted Promotion Project\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe.config
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.dll
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.baml
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.g.cs
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.g.cs
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.g.cs
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.g.cs
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.g.cs
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.cache
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.lref
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.baml
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.baml
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.baml
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.baml
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.g.resources
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\User\Desktop\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe.config
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.dll
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.baml
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.g.cs
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.g.cs
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.g.cs
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.g.cs
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.g.cs
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.cache
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.lref
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.baml
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.baml
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.baml
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.baml
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.g.resources
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\User\Desktop\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe.config
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.dll
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.baml
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.g.cs
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.g.cs
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.g.cs
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.g.cs
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.g.cs
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.cache
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.lref
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.baml
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.baml
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.baml
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.baml
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.g.resources
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\User\Desktop\ww\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe.config
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.dll
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.baml
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.baml
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.g.cs
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.g.cs
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.g.cs
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.g.cs
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.g.cs
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\App.g.cs
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.cache
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.lref
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.baml
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.baml
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.baml
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.baml
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.g.resources
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CoreCompileInputs.cache
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\RoboCoach\Desktop\DirectX PA Video Wall Project(1)\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe.config
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.dll
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csprojResolveAssemblyReference.cache
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.baml
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.baml
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.g.cs
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.g.cs
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.g.cs
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.g.cs
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.g.cs
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\App.g.cs
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.cache
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.lref
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.baml
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.baml
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.baml
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.baml
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.g.resources
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CoreCompileInputs.cache
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\RoboCoach\Desktop\PA Event\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe.config
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\FaceAPI-WPF-Samples.pdb
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Microsoft.ProjectOxford.Face.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\SampleUserControlLibrary.dll
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csprojResolveAssemblyReference.cache
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.baml
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.baml
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.g.cs
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.g.cs
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.g.cs
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceVerificationPage.g.cs
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.g.cs
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\App.g.cs
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.cache
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples_MarkupCompile.lref
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceIdentificationPage.baml
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceFindSimilarPage.baml
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceGroupingPage.baml
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\Controls\FaceDetectionPage.baml
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.g.resources
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.csproj.CoreCompileInputs.cache
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.exe
+C:\Users\RoboCoach\Desktop\17IP\XD\TargetPromotionSolutionV3\Windows\Sample-WPF\obj\Debug\FaceAPI-WPF-Samples.pdb
