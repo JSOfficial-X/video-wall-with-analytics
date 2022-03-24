@@ -1,0 +1,20 @@
+C:\Users\RoboCoach\Desktop\Remote Manager\Remote Manager\bin\Debug\Remote Manager.exe.config
+C:\Users\RoboCoach\Desktop\Remote Manager\Remote Manager\bin\Debug\Remote Manager.exe
+C:\Users\RoboCoach\Desktop\Remote Manager\Remote Manager\bin\Debug\Remote Manager.pdb
+C:\Users\RoboCoach\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote Manager.csprojResolveAssemblyReference.cache
+C:\Users\RoboCoach\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote_Manager.frmRemoteManager.resources
+C:\Users\RoboCoach\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote_Manager.Properties.Resources.resources
+C:\Users\RoboCoach\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote Manager.csproj.GenerateResource.Cache
+C:\Users\RoboCoach\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote Manager.csproj.CoreCompileInputs.cache
+C:\Users\RoboCoach\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote Manager.exe
+C:\Users\RoboCoach\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote Manager.pdb
+C:\Users\User\Desktop\Remote Manager\Remote Manager\bin\Debug\Remote Manager.exe.config
+C:\Users\User\Desktop\Remote Manager\Remote Manager\bin\Debug\Remote Manager.exe
+C:\Users\User\Desktop\Remote Manager\Remote Manager\bin\Debug\Remote Manager.pdb
+C:\Users\User\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote Manager.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote_Manager.frmRemoteManager.resources
+C:\Users\User\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote_Manager.Properties.Resources.resources
+C:\Users\User\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote Manager.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote Manager.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote Manager.exe
+C:\Users\User\Desktop\Remote Manager\Remote Manager\obj\Debug\Remote Manager.pdb

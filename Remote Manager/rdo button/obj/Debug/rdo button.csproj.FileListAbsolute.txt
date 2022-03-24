@@ -1,0 +1,9 @@
+C:\Users\RoboCoach\Desktop\Remote Manager\rdo button\bin\Debug\rdo button.exe.config
+C:\Users\RoboCoach\Desktop\Remote Manager\rdo button\bin\Debug\rdo button.exe
+C:\Users\RoboCoach\Desktop\Remote Manager\rdo button\bin\Debug\rdo button.pdb
+C:\Users\RoboCoach\Desktop\Remote Manager\rdo button\obj\Debug\rdo_button.Form1.resources
+C:\Users\RoboCoach\Desktop\Remote Manager\rdo button\obj\Debug\rdo_button.Properties.Resources.resources
+C:\Users\RoboCoach\Desktop\Remote Manager\rdo button\obj\Debug\rdo button.csproj.GenerateResource.Cache
+C:\Users\RoboCoach\Desktop\Remote Manager\rdo button\obj\Debug\rdo button.csproj.CoreCompileInputs.cache
+C:\Users\RoboCoach\Desktop\Remote Manager\rdo button\obj\Debug\rdo button.exe
+C:\Users\RoboCoach\Desktop\Remote Manager\rdo button\obj\Debug\rdo button.pdb
